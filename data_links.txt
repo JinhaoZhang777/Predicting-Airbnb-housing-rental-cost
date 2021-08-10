@@ -1,0 +1,3 @@
+https://www.kaggle.com/airbnb/boston
+
+https://www.kaggle.com/airbnb/seattle
